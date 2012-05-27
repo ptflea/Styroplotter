@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="python2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.818094"
+     inkscape:cx="90.738665"
+     inkscape:cy="950.76256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3095"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 5.3963246,186.25205 44.8784864,-0.20682 -0.03892,-27.5661 c 0,0 -0.455552,-6.31766 -0.136192,-23.92579"
+       id="path4246" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50.099699,134.55334 c 0,0 -14.509372,0.13631 -23.251411,0.13631 -13.368287,0 -20.8513676,-22.29807 -20.8513676,-35.161111 0,-27.924404 7.6793426,-47.587538 26.6044966,-48.108045 23.625664,0.10746 57.606307,-0.160941 57.606307,-0.160941 l 0.01237,-5.017817 -40.339883,-0.272565 0,-21.579938 c 0,-9.514712 10.299114,-15.8979934 27.649024,-15.8979934 9.796668,-0.080848 16.44358,-0.439791 24.807345,-0.2980333 13.1396,0 28.90483,6.0516727 28.90483,19.9228377 0,0 0.44753,6.510739 0.12817,24.118865"
+       id="path4248" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 131.36958,52.234909 c 0,0 14.51742,-0.329383 23.25946,-0.329383 13.36829,0 20.85137,22.298073 20.85137,35.161113 0,27.924401 -7.67935,47.587541 -26.6045,48.108041 -23.62566,-0.10746 -57.606309,0.16094 -57.606309,0.16094 l -0.0124,5.01782 40.339889,0.27257 0,21.57993 c 0,9.51471 -10.29912,15.898 -27.64903,15.898 -9.796669,0.0808 -16.443579,0.43979 -24.807339,0.29803 -13.1396,0 -28.90483,-6.05167 -28.90483,-19.92284 l -17.655149,0.3264 -0.206236,27.32219"
+       id="path2997-6" />
+  </g>
+</svg>

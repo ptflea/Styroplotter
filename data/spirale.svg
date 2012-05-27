@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46"
+   sodipodi:docname="spirale.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective8" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="97.714089"
+     inkscape:cy="892.46646"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1153"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     objecttolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2457"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130.68586,325.98478 C 128.56453,243.45048 160.13727,254.87604 184.24921,235.82861 C 234.18392,196.38228 250.51652,125.32818 213.41732,72.486942 C 180.34763,25.385012 113.08189,10.968509 65.455205,44.909822 C 23.540045,74.780792 10.802195,135.08405 41.590395,177.49235 C 68.257475,214.22413 121.60897,225.2867 158.79336,197.64485 C 190.34659,174.18906 199.73899,127.77351 175.23356,95.821468 C 155.0001,69.439562 115.49562,61.709112 88.789748,83.093582 C 67.567625,100.08698 61.484775,132.72298 79.774155,154.15781 C 93.496248,170.23985 119.34658,174.70323 135.45882,159.4611 C 146.43791,149.07492 149.34573,129.8122 137.0498,119.15601 C 130.17583,113.19872 116.81573,111.69616 112.12429,121.27734 C 110.39309,124.81291 112.2145,134.33315 117.95792,130.82328 M 117.95792,130.82328 C 123.70134,127.31341 125.52275,136.83365 123.79155,140.36922 C 119.10011,149.9504 105.74001,148.44784 98.866038,142.49055 C 86.570108,131.83436 89.477928,112.57164 100.45702,102.18546 C 116.56926,86.943328 142.41959,91.406708 156.14168,107.48875 C 174.43106,128.92358 168.34821,161.55958 147.12609,178.55298 C 120.42022,199.93745 80.915739,192.207 60.682279,165.82509 C 36.176849,133.87305 45.569249,87.457498 77.122479,64.001698 C 114.30687,36.359858 167.65836,47.422428 194.32544,84.154208 C 225.11364,126.56251 214.8025,190.60336 170.46063,216.73674 C 116.46999,248.55673 107.35133,250.52012 107.35133,324.92412"
+       sodipodi:nodetypes="csssssssssssccssssssssss" />
+  </g>
+</svg>
