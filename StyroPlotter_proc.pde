@@ -9,13 +9,14 @@ RPoint[] points;
 int i = 0;
 float scaleFactor = 1.3;
 int msgQueue[];
+int lstMsg; //last message sent
 int wait = 0; // Variable um den Start der seriellen Kommunikation zu verzögern
 boolean msgLock; // Plotqueue sperren, bis Antwort vom Arduino da ist
 
 void setup() {
 
     msgQueue = new int[0];
-
+    println(Serial.list());
     serialPort = new Serial(this, Serial.list()[0], 9600);
 
     // Setze Serialbuffer-Größe auf 4 Bytes
@@ -35,7 +36,7 @@ void setup() {
     // Load given svg file in sketch/data
     RG.init(this);
 
-    RShape objShape = RG.loadShape("Ghost.svg");
+    RShape objShape = RG.loadShape("spirale.svg");
 
     // Break lines into smaller steps
     points = objShape.getPoints();
@@ -154,30 +155,17 @@ public void queueMessage(int msg) {
     msgQueue = append(msgQueue, msg);
 }
 
-// Ältester Eintrag aus der Queue entfernen und zurückgeben
-public void dequeueMessage() {
-
-    int msg = msgQueue[0];
-
-    // Gesendete nachricht aus der Queue entfernen
-    msgQueue = subset(msqQueue, 1);
-    return msg;
-
-}
 
 // Steuerbefehle per serial an den Arduino schicken
 private void parseQueue() {
 
     // Solange noch was in der queue liegt, und sie nicht gesperrt ist...
-    if (msgQueue.length > 0 && !msgLock) {
-
-        // Plotqueue sperren, damit keine Steuerbefehle verloren gehen
-        msgLock = true;
-
-        int msg = dequeueMessage();
-
-        writeSerial(msg);
-        println("writing message: " + msg);
+      if(msgQueue.length > 0 && !msgLock) {
+      msgLock = true;  //Plotqueue sperren, damit keine Steuerbefehle verloren gehen 
+      lstMsg = msgQueue[0]; //queue the first message on the stack
+      writeSerial(lstMsg);
+      println("writing message: " + lstMsg);
+      msgQueue = subset(msgQueue, 1);
     }
 
 }
